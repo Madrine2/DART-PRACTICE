@@ -1,3 +1,5 @@
+// NAMULINDWA MADRINE 2000719135 20/U/19135/PS
+
 // A loop is an operation in a programming language that will help us to to execute a ertain piece f code repeatedly until a certain condition is reached.
 int main(){
 for int(int i = 0; i <= 100; i++) {
