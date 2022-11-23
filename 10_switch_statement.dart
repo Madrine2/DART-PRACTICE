@@ -21,5 +21,5 @@ void main(List<String> args) {
         print("$x mark is more than the numbers that we know");
     }
 
-    return 0;
+    
 }

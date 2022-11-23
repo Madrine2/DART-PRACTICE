@@ -8,6 +8,6 @@ for int(int i = 0; i <= 100; i++) {
     return 0;
 } 
 
-for(int i = 1000; i > 0; i--) {
+/*for(int i = 1000; i > 0; i--) {
     print("this is $i time")
-}
+}*/
